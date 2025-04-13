@@ -41,3 +41,11 @@ body {
     height: 100px;
     flex-shrink: 0;
 }
+
+.name-state {
+    text-align: center;
+}
+
+.name-state h3 {
+    color: #fff;
+}
