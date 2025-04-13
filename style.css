@@ -68,6 +68,7 @@ body {
 }
 
 .profile-des {
+    text-align: center;
     font-weight: normal;
     font-size: 14px;
 }
